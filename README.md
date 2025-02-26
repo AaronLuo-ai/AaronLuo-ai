@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Luo</h1>
 <h3 align="center">Undergraduate student dedicated to mathematical computer science</h3>
-
-- 🔭 I’m currently working on **U-Net Segmentation of Rectal Cancer Patients**
-
-- 🌱 I’m currently learning **Reinfocement Learning, LLM, Security in Machine Learning**
-
 - 📫 How to reach me **zisheng1801@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
